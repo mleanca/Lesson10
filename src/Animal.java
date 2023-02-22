@@ -23,3 +23,10 @@ public interface Animal {
         System.out.println(sleep("The elephant sleeps")); //without creating object
     }
 }
+
+//The elephant runs
+//The elephant jumps
+//The animal is eating
+//Elephants are herbivores and only eat plant-based food.
+//Herbivores do not eat animal-based food.
+//The elephant sleeps
